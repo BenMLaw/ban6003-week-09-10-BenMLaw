@@ -1,0 +1,186 @@
+carrier,month,flight_count,route_count,avg_dep_delay,avg_arr_delay,avg_distance,share_arr_delay_over_15,airline_name
+9E,1,1573,34,16.88,10.21,476.35,0.248,Endeavor Air Inc.
+9E,2,1459,36,16.49,8.28,467.89,0.241,Endeavor Air Inc.
+9E,3,1627,36,13.41,2.03,476.49,0.205,Endeavor Air Inc.
+9E,4,1511,37,13.57,5.47,492.47,0.232,Endeavor Air Inc.
+9E,5,1462,42,22.67,10.42,505.49,0.294,Endeavor Air Inc.
+9E,6,1437,39,28.95,22.51,528.43,0.375,Endeavor Air Inc.
+9E,7,1494,45,31.4,23.76,539.44,0.385,Endeavor Air Inc.
+9E,8,1456,35,17.3,5.31,544.88,0.247,Endeavor Air Inc.
+9E,9,1540,51,7.75,-7.14,579.62,0.129,Endeavor Air Inc.
+9E,10,1673,46,9.33,-1.35,596.21,0.182,Endeavor Air Inc.
+9E,11,1595,55,7.56,-0.03,586.27,0.18,Endeavor Air Inc.
+9E,12,1633,56,19.78,14.05,559.7,0.314,Endeavor Air Inc.
+AA,1,2794,23,6.93,0.98,1350.46,0.191,American Airlines Inc.
+AA,2,2517,23,8.28,1.09,1350.27,0.189,American Airlines Inc.
+AA,3,2787,23,8.7,-2.98,1348.33,0.17,American Airlines Inc.
+AA,4,2722,23,11.7,8.26,1338.65,0.25,American Airlines Inc.
+AA,5,2803,22,9.66,-4.68,1338.46,0.157,American Airlines Inc.
+AA,6,2757,22,14.63,6.48,1330.46,0.236,American Airlines Inc.
+AA,7,2882,22,12.11,4.32,1324.42,0.218,American Airlines Inc.
+AA,8,2856,22,7.17,-2.3,1326.28,0.17,American Airlines Inc.
+AA,9,2614,21,5.69,-8.57,1338.32,0.123,American Airlines Inc.
+AA,10,2715,21,3.0,-3.79,1336.64,0.143,American Airlines Inc.
+AA,11,2577,22,3.1,-2.02,1345.73,0.159,American Airlines Inc.
+AA,12,2705,22,11.71,7.72,1357.2,0.249,American Airlines Inc.
+AS,1,62,1,7.35,8.97,2402.0,0.371,Alaska Airlines Inc.
+AS,2,56,1,0.72,-12.74,2402.0,0.074,Alaska Airlines Inc.
+AS,3,62,1,8.42,-4.84,2402.0,0.145,Alaska Airlines Inc.
+AS,4,60,1,11.32,3.5,2402.0,0.15,Alaska Airlines Inc.
+AS,5,62,1,6.77,-10.8,2402.0,0.169,Alaska Airlines Inc.
+AS,6,60,1,13.08,-3.75,2402.0,0.183,Alaska Airlines Inc.
+AS,7,62,1,2.42,-15.73,2402.0,0.129,Alaska Airlines Inc.
+AS,8,62,1,2.87,-18.1,2402.0,0.097,Alaska Airlines Inc.
+AS,9,60,1,-4.52,-34.9,2402.0,0.017,Alaska Airlines Inc.
+AS,10,62,1,0.68,-25.92,2402.0,0.032,Alaska Airlines Inc.
+AS,11,52,1,3.08,-10.81,2402.0,0.096,Alaska Airlines Inc.
+AS,12,54,1,18.02,7.46,2402.0,0.259,Alaska Airlines Inc.
+B6,1,4427,51,9.49,4.72,1061.63,0.219,JetBlue Airways
+B6,2,4103,52,13.77,12.48,1056.89,0.308,JetBlue Airways
+B6,3,4772,51,14.24,10.86,1063.13,0.274,JetBlue Airways
+B6,4,4517,52,15.17,13.27,1078.84,0.307,JetBlue Airways
+B6,5,4576,54,9.78,2.72,1050.27,0.199,JetBlue Airways
+B6,6,4622,54,20.39,18.54,1066.49,0.322,JetBlue Airways
+B6,7,4984,54,24.9,23.35,1068.17,0.38,JetBlue Airways
+B6,8,4952,54,15.68,11.32,1065.88,0.287,JetBlue Airways
+B6,9,4291,54,6.63,-2.51,1065.24,0.134,JetBlue Airways
+B6,10,4361,54,2.96,-2.97,1071.66,0.126,JetBlue Airways
+B6,11,4289,52,3.52,-0.88,1080.44,0.156,JetBlue Airways
+B6,12,4741,52,17.0,19.5,1093.81,0.39,JetBlue Airways
+DL,1,3690,47,3.85,-4.4,1220.39,0.126,Delta Air Lines Inc.
+DL,2,3444,39,5.54,-4.73,1227.0,0.135,Delta Air Lines Inc.
+DL,3,4189,42,9.93,1.41,1248.55,0.183,Delta Air Lines Inc.
+DL,4,4092,44,8.17,3.44,1246.6,0.209,Delta Air Lines Inc.
+DL,5,4082,43,9.74,-0.39,1248.09,0.173,Delta Air Lines Inc.
+DL,6,4126,41,18.74,13.26,1237.28,0.274,Delta Air Lines Inc.
+DL,7,4251,38,20.58,14.92,1238.19,0.295,Delta Air Lines Inc.
+DL,8,4318,38,9.85,0.83,1233.55,0.198,Delta Air Lines Inc.
+DL,9,3883,38,5.53,-4.41,1231.15,0.114,Delta Air Lines Inc.
+DL,10,4093,36,3.42,-6.3,1226.9,0.107,Delta Air Lines Inc.
+DL,11,3849,38,2.85,-2.76,1232.88,0.128,Delta Air Lines Inc.
+DL,12,4093,42,10.79,6.17,1248.41,0.222,Delta Air Lines Inc.
+EV,1,4171,60,24.23,25.16,522.38,0.402,ExpressJet Airlines Inc.
+EV,2,3827,61,21.52,20.27,525.07,0.361,ExpressJet Airlines Inc.
+EV,3,4726,72,26.17,20.72,537.59,0.358,ExpressJet Airlines Inc.
+EV,4,4561,77,22.77,21.17,560.07,0.367,ExpressJet Airlines Inc.
+EV,5,4817,67,20.24,14.17,565.68,0.326,ExpressJet Airlines Inc.
+EV,6,4456,72,25.5,21.27,568.33,0.349,ExpressJet Airlines Inc.
+EV,7,4641,70,26.5,21.67,584.85,0.345,ExpressJet Airlines Inc.
+EV,8,4563,72,16.26,11.01,581.02,0.269,ExpressJet Airlines Inc.
+EV,9,4725,77,8.24,-1.87,576.81,0.151,ExpressJet Airlines Inc.
+EV,10,4908,72,13.42,9.04,577.93,0.256,ExpressJet Airlines Inc.
+EV,11,4471,76,9.83,5.09,579.23,0.217,ExpressJet Airlines Inc.
+EV,12,4307,85,27.89,26.77,566.76,0.407,ExpressJet Airlines Inc.
+F9,1,59,1,10.0,21.83,1620.0,0.441,Frontier Airlines Inc.
+F9,2,49,1,29.77,31.15,1620.0,0.354,Frontier Airlines Inc.
+F9,3,57,1,16.75,12.67,1620.0,0.263,Frontier Airlines Inc.
+F9,4,57,1,24.63,34.32,1620.0,0.421,Frontier Airlines Inc.
+F9,5,58,1,35.95,27.09,1620.0,0.379,Frontier Airlines Inc.
+F9,6,55,1,29.44,26.64,1620.0,0.455,Frontier Airlines Inc.
+F9,7,58,1,31.81,36.41,1620.0,0.5,Frontier Airlines Inc.
+F9,8,55,1,22.22,20.62,1620.0,0.4,Frontier Airlines Inc.
+F9,9,58,1,8.26,2.29,1620.0,0.232,Frontier Airlines Inc.
+F9,10,57,1,9.7,9.86,1620.0,0.263,Frontier Airlines Inc.
+F9,11,61,1,13.53,18.22,1620.0,0.417,Frontier Airlines Inc.
+F9,12,61,1,13.15,22.98,1620.0,0.344,Frontier Airlines Inc.
+FL,1,328,3,1.97,3.32,691.03,0.167,AirTran Airways Corporation
+FL,2,296,3,5.18,4.25,691.0,0.23,AirTran Airways Corporation
+FL,3,316,3,17.25,16.13,672.45,0.284,AirTran Airways Corporation
+FL,4,311,2,13.12,19.31,665.76,0.353,AirTran Airways Corporation
+FL,5,325,2,19.18,18.33,666.54,0.323,AirTran Airways Corporation
+FL,6,252,2,38.81,41.97,646.13,0.506,AirTran Airways Corporation
+FL,7,263,2,41.16,44.97,644.03,0.456,AirTran Airways Corporation
+FL,8,263,2,23.41,24.84,645.42,0.412,AirTran Airways Corporation
+FL,9,255,2,16.95,15.07,647.49,0.209,AirTran Airways Corporation
+FL,10,236,2,13.68,15.99,672.3,0.368,AirTran Airways Corporation
+FL,11,202,2,16.87,18.54,662.62,0.386,AirTran Airways Corporation
+FL,12,213,2,26.11,29.11,659.18,0.442,AirTran Airways Corporation
+HA,1,31,1,54.39,27.48,4983.0,0.161,Hawaiian Airlines Inc.
+HA,2,28,1,17.36,-28.82,4983.0,0.071,Hawaiian Airlines Inc.
+HA,3,31,1,1.16,-17.32,4983.0,0.097,Hawaiian Airlines Inc.
+HA,4,30,1,-2.1,-17.07,4983.0,0.133,Hawaiian Airlines Inc.
+HA,5,31,1,-1.45,-21.06,4983.0,0.065,Hawaiian Airlines Inc.
+HA,6,30,1,1.47,1.83,4983.0,0.167,Hawaiian Airlines Inc.
+HA,7,31,1,-1.71,3.0,4983.0,0.194,Hawaiian Airlines Inc.
+HA,8,31,1,1.68,4.39,4983.0,0.226,Hawaiian Airlines Inc.
+HA,9,25,1,-5.44,-19.4,4983.0,0.04,Hawaiian Airlines Inc.
+HA,10,21,1,-5.1,-14.43,4983.0,0.0,Hawaiian Airlines Inc.
+HA,11,25,1,-5.44,2.32,4983.0,0.24,Hawaiian Airlines Inc.
+HA,12,28,1,-3.14,-9.36,4983.0,0.071,Hawaiian Airlines Inc.
+MQ,1,2271,21,6.49,7.88,565.68,0.231,Envoy Air
+MQ,2,2044,21,8.09,7.33,565.05,0.242,Envoy Air
+MQ,3,2256,21,7.19,2.85,564.54,0.195,Envoy Air
+MQ,4,2211,21,13.74,18.13,566.91,0.334,Envoy Air
+MQ,5,2284,21,13.93,11.94,567.09,0.285,Envoy Air
+MQ,6,2178,22,20.84,23.14,566.14,0.361,Envoy Air
+MQ,7,2261,21,20.75,22.74,568.24,0.375,Envoy Air
+MQ,8,2263,22,10.05,10.44,569.29,0.27,Envoy Air
+MQ,9,2206,21,5.35,1.56,577.49,0.188,Envoy Air
+MQ,10,2228,21,4.48,4.3,574.01,0.213,Envoy Air
+MQ,11,2056,22,3.28,4.85,571.92,0.231,Envoy Air
+MQ,12,2139,22,12.73,14.86,578.43,0.331,Envoy Air
+OO,1,1,1,67.0,107.0,733.0,1.0,SkyWest Airlines Inc.
+OO,6,2,1,61.0,68.5,488.0,0.5,SkyWest Airlines Inc.
+OO,8,4,1,64.0,64.5,419.0,0.75,SkyWest Airlines Inc.
+OO,9,20,1,-4.94,-8.88,419.0,0.059,SkyWest Airlines Inc.
+OO,11,5,2,0.8,-1.0,852.2,0.2,SkyWest Airlines Inc.
+UA,1,4637,38,8.33,3.18,1461.55,0.213,United Air Lines Inc.
+UA,2,4346,39,7.71,0.19,1435.73,0.183,United Air Lines Inc.
+UA,3,4971,38,11.69,1.55,1455.59,0.195,United Air Lines Inc.
+UA,4,5047,35,13.65,8.71,1502.03,0.262,United Air Lines Inc.
+UA,5,4960,38,12.26,-2.44,1555.32,0.182,United Air Lines Inc.
+UA,6,4975,36,20.27,12.79,1574.6,0.295,United Air Lines Inc.
+UA,7,5066,36,20.11,10.68,1580.91,0.271,United Air Lines Inc.
+UA,8,5124,35,12.42,3.46,1592.95,0.233,United Air Lines Inc.
+UA,9,4694,35,6.89,-7.67,1568.11,0.114,United Air Lines Inc.
+UA,10,5060,33,6.65,-1.53,1528.59,0.16,United Air Lines Inc.
+UA,11,4854,34,6.37,-1.3,1534.38,0.15,United Air Lines Inc.
+UA,12,4931,43,17.72,14.0,1543.25,0.348,United Air Lines Inc.
+US,1,1602,9,1.82,1.43,536.09,0.17,US Airways Inc.
+US,2,1552,9,0.98,0.27,527.25,0.159,US Airways Inc.
+US,3,1721,8,2.72,-0.5,551.72,0.153,US Airways Inc.
+US,4,1727,8,4.06,5.71,540.55,0.234,US Airways Inc.
+US,5,1785,8,3.18,-0.02,548.16,0.165,US Airways Inc.
+US,6,1736,8,10.4,11.31,568.16,0.248,US Airways Inc.
+US,7,1786,9,9.44,9.86,567.39,0.267,US Airways Inc.
+US,8,1779,8,4.96,2.76,551.28,0.186,US Airways Inc.
+US,9,1698,8,1.96,-4.72,525.02,0.105,US Airways Inc.
+US,10,1846,8,0.14,-2.62,554.35,0.115,US Airways Inc.
+US,11,1699,8,0.58,-2.67,571.84,0.145,US Airways Inc.
+US,12,1605,8,4.94,5.0,598.36,0.21,US Airways Inc.
+VX,1,316,4,1.06,-15.28,2495.06,0.051,Virgin America
+VX,2,271,4,6.61,-12.66,2492.71,0.107,Virgin America
+VX,3,303,4,9.68,-6.32,2491.94,0.109,Virgin America
+VX,4,466,6,14.64,2.05,2498.82,0.191,Virgin America
+VX,5,496,5,17.83,-3.09,2501.5,0.19,Virgin America
+VX,6,480,5,28.41,26.68,2501.5,0.324,Virgin America
+VX,7,489,5,35.26,22.73,2501.19,0.271,Virgin America
+VX,8,489,5,6.61,-1.28,2501.14,0.16,Virgin America
+VX,9,453,5,6.99,-6.58,2500.77,0.1,Virgin America
+VX,10,472,5,4.01,-9.28,2500.74,0.096,Virgin America
+VX,11,451,6,7.8,4.7,2501.1,0.214,Virgin America
+VX,12,476,6,6.1,3.8,2500.13,0.251,Virgin America
+WN,1,996,12,9.14,5.89,942.17,0.213,Southwest Airlines Co.
+WN,2,911,11,11.75,0.34,949.73,0.149,Southwest Airlines Co.
+WN,3,998,14,15.25,3.16,978.22,0.21,Southwest Airlines Co.
+WN,4,980,13,18.22,14.02,989.98,0.276,Southwest Airlines Co.
+WN,5,1006,13,16.94,2.95,989.28,0.204,Southwest Airlines Co.
+WN,6,1028,14,30.51,22.09,1014.42,0.322,Southwest Airlines Co.
+WN,7,1076,14,24.63,14.83,1015.16,0.277,Southwest Airlines Co.
+WN,8,1047,14,21.79,13.0,1018.0,0.258,Southwest Airlines Co.
+WN,9,1010,14,14.17,2.24,1018.18,0.154,Southwest Airlines Co.
+WN,10,1091,14,12.46,6.4,1013.8,0.233,Southwest Airlines Co.
+WN,11,1033,15,11.01,4.08,1007.64,0.226,Southwest Airlines Co.
+WN,12,1099,15,24.89,23.97,1007.87,0.43,Southwest Airlines Co.
+YV,1,46,1,15.85,13.77,229.0,0.256,Mesa Airlines Inc.
+YV,2,48,1,10.67,3.7,229.0,0.196,Mesa Airlines Inc.
+YV,3,18,1,31.89,25.06,229.0,0.389,Mesa Airlines Inc.
+YV,4,38,2,27.11,30.97,403.08,0.472,Mesa Airlines Inc.
+YV,5,49,2,15.41,4.77,402.57,0.227,Mesa Airlines Inc.
+YV,6,49,2,42.79,44.59,389.71,0.564,Mesa Airlines Inc.
+YV,7,81,2,22.43,27.84,439.0,0.406,Mesa Airlines Inc.
+YV,8,65,2,19.07,18.35,432.54,0.283,Mesa Airlines Inc.
+YV,9,42,2,8.88,-2.79,476.5,0.167,Mesa Airlines Inc.
+YV,10,66,2,20.0,15.0,396.05,0.283,Mesa Airlines Inc.
+YV,11,49,3,10.52,2.56,346.71,0.229,Mesa Airlines Inc.
+YV,12,50,3,13.11,7.28,375.86,0.372,Mesa Airlines Inc.
